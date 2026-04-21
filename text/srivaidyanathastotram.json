@@ -1,0 +1,83 @@
+Here’s your chant structured as a song in clean JSON format (with intro, verses, and chorus sections):
+
+
+{
+  "title": "Sri Vaidyanathashtakam",
+  "language": "Sanskrit",
+  "structure": {
+    "intro": [
+      "śrīrāmasaumitrijaṭāyuvēda ṣaḍānanāditya kujārchitāya",
+      "śrīnīlakaṇṭhāya dayāmayāya śrīvaidyanāthāya namaḥ śivāya ॥1॥"
+    ],
+    "chorus": [
+      "śambhō mahādēva śambhō mahādēva",
+      "śambhō mahādēva śambhō mahādēva",
+      "śambhō mahādēva śambhō mahādēva",
+      "śambhō mahādēva śambhō mahādēva"
+    ],
+    "verses": [
+      {
+        "verse": 2,
+        "lines": [
+          "gaṅgāpravāhēndu jaṭādharāya trilōchanāya smara kālahantrē",
+          "samasta dēvairabhipūjitāya śrīvaidyanāthāya namaḥ śivāya ॥2॥"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "bhaktaḥpriyāya tripurāntakāya pinākinē duṣṭaharāya nityam",
+          "pratyakṣalīlāya manuṣyalōkē śrīvaidyanāthāya namaḥ śivāya ॥3॥"
+        ]
+      },
+      {
+        "verse": 4,
+        "lines": [
+          "prabhūtavātādi samastarōga pranāśakartrē munivanditāya",
+          "prabhākarēndvagni vilōchanāya śrīvaidyanāthāya namaḥ śivāya ॥4॥"
+        ]
+      },
+      {
+        "verse": 5,
+        "lines": [
+          "vāk śrōtra nētrāṅghri vihīnajantōḥ vākśrōtranētrāṅghrisukhapradāya",
+          "kuṣṭhādisarvōnnatarōgahantrē śrīvaidyanāthāya namaḥ śivāya ॥5॥"
+        ]
+      },
+      {
+        "verse": 6,
+        "lines": [
+          "vēdāntavēdyāya jaganmayāya yōgīśvaradyēya padāmbujāya",
+          "trimūrtirūpāya sahasranāmnē śrīvaidyanāthāya namaḥ śivāya ॥6॥"
+        ]
+      },
+      {
+        "verse": 7,
+        "lines": [
+          "svatīrthamṛdbhasmabhṛtāṅgabhājāṃ piśāchaduḥkhārtibhayāpahāya",
+          "ātmasvarūpāya śarīrabhājāṃ śrīvaidyanāthāya namaḥ śivāya ॥7॥"
+        ]
+      },
+      {
+        "verse": 8,
+        "lines": [
+          "śrīnīlakaṇṭhāya vṛṣadhvajāya srakgandha bhasmādyabhiśōbhitāya",
+          "suputradārādi subhāgyadāya śrīvaidyanāthāya namaḥ śivāya ॥8॥"
+        ]
+      },
+      {
+        "verse": 9,
+        "lines": [
+          "bālāmbikēśa vaidyēśa bhavarōga harēti cha",
+          "japēnnāmatrayaṃ nityaṃ mahārōganivāraṇam ॥9॥"
+        ]
+      }
+    ],
+    "outro": [
+      "śambhō mahādēva śambhō mahādēva",
+      "śambhō mahādēva śambhō mahādēva"
+    ]
+  }
+}
+
+
